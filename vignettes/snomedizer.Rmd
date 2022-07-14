@@ -65,7 +65,7 @@ Try for yourself with the quick exercise below:
 7. In the 'Refsets' tab, you will see that this concept is mapped to ICD-10 code J20.2.
 
 
-<div class="figure"><img src="40600002_diagram.svg" style="width:100.0%" alt="Concept diagram: raw (unprocessed) electronic prescribing records"></div>
+
 
 <!-- <div class="bd-callout bd-callout-info"> -->
 <!-- <h4>Bonus exercise</h4> -->
