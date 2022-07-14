@@ -6,8 +6,6 @@ output:
     toc: true
     always_allow_html: yes
     df_print: tibble
-bibliography: ../inst/REFERENCES.bib
-csl: the-open-university-numeric.csl
 vignette: >
   %\VignetteIndexEntry{snomedizer: R Interface to the SNOMED CT Terminology Server REST API}
   %\VignetteEngine{knitr::rmarkdown}
